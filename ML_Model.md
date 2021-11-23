@@ -14,7 +14,7 @@
 ###  Neural Network
  
 ## Reason:
-### **We decided to use the Neural Network Model because it able to improve without being explicitly programmed.**
+### **We decided to choose Neural networks because it helps us cluster and classify. and it can improve the accuracy for our model.**
 ## Group 1:
 ### **TITANS** 
 ## Group Members:
