@@ -14,7 +14,7 @@
 ###  Neural Network
  
 ## Reason:
-### **We decided to choose Neural networks because it helps us cluster and classify. and it can improve the accuracy for our model.**
+### **We decided to choose Neural Network Model to help us classify our data into two classes and improve the accuracy when predicting the test set.**
 ## Group 1:
 ### **TITANS** 
 ## Group Members:
