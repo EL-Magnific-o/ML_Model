@@ -8,13 +8,13 @@
  
 ## ML Use Case:
 
-### Checking The customer's eligibility for a loan
+### Checking the customer's eligibility for a loan
  
 ## ML model selected:
 ###  Neural Network
  
 ## Reason:
-### **We decided to choose Neural Network Model to help us estimate prices for each house and improve the error rate when predicting the test set.**
+### **We decided to choose Neural Network Model to help us estimate the price for each house and improve the error rate when predicting the test set..**
 ## Group 1:
 ### **TITANS** 
 ## Group Members:
